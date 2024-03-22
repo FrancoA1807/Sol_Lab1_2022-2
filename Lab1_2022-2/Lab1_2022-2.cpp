@@ -11,7 +11,7 @@ void show_decoded_word(int n, int coded_word_numbers[], char coded_word[]);
 void sort(int n, int coded_word_numbers[], char coded_word[]);
 
 //Hola mundo 
-//hola
+//hola actualizado
 int main()
 {
     int n;
